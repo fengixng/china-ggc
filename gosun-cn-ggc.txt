@@ -1,0 +1,65 @@
+#Xuzhou
+
+r1---sn-bvn0o-m01e.gvt1.com	222.187.0.204
+r2---sn-bvn0o-m01e.gvt1.com	222.187.0.205
+r3---sn-bvn0o-m01e.gvt1.com	222.187.0.206
+r4---sn-bvn0o-m01e.gvt1.com	222.187.0.207
+r5---sn-bvn0o-m01e.gvt1.com	222.187.0.208
+r6---sn-bvn0o-m01e.gvt1.com	222.187.0.209
+r7---sn-bvn0o-m01e.gvt1.com	222.187.0.210
+r8---sn-bvn0o-m01e.gvt1.com	222.187.0.211
+
+#Changchun
+
+r1---sn-bvn0o-jb9e.gvt1.com	139.209.52.76
+r2---sn-bvn0o-jb9e.gvt1.com	139.209.52.77
+r3---sn-bvn0o-jb9e.gvt1.com	139.209.52.78
+r4---sn-bvn0o-jb9e.gvt1.com	139.209.52.79
+r5---sn-bvn0o-jb9e.gvt1.com	139.209.52.80
+r6---sn-bvn0o-jb9e.gvt1.com	139.209.52.81
+r7---sn-bvn0o-jb9e.gvt1.com	139.209.52.82
+r8---sn-bvn0o-jb9e.gvt1.com	139.209.52.83
+
+#Chengdu
+
+r1---sn-bvn0o-ju0e.gvt1.com	117.175.92.76
+r2---sn-bvn0o-ju0e.gvt1.com	117.175.92.77
+r3---sn-bvn0o-ju0e.gvt1.com	117.175.92.78
+r4---sn-bvn0o-ju0e.gvt1.com	117.175.92.79
+r5---sn-bvn0o-ju0e.gvt1.com	117.175.92.80
+r6---sn-bvn0o-ju0e.gvt1.com	117.175.92.81
+r7---sn-bvn0o-ju0e.gvt1.com	117.175.92.82
+r8---sn-bvn0o-ju0e.gvt1.com	117.175.92.83
+
+#Chengde
+
+r1---sn-bvn0o-jqxe.gvt1.com	101.75.247.76
+r2---sn-bvn0o-jqxe.gvt1.com	101.75.247.77
+r3---sn-bvn0o-jqxe.gvt1.com	101.75.247.78
+r4---sn-bvn0o-jqxe.gvt1.com	101.75.247.79
+r5---sn-bvn0o-jqxe.gvt1.com	101.75.247.80
+r6---sn-bvn0o-jqxe.gvt1.com	101.75.247.81
+r7---sn-bvn0o-jqxe.gvt1.com	101.75.247.82
+r8---sn-bvn0o-jqxe.gvt1.com	101.75.247.83
+
+#Wenzhou
+
+r1---sn-bvn0o-fo1e.gvt1.com	117.149.195.12
+r2---sn-bvn0o-fo1e.gvt1.com	117.149.195.13
+r3---sn-bvn0o-fo1e.gvt1.com	117.149.195.14
+r4---sn-bvn0o-fo1e.gvt1.com	117.149.195.15
+r5---sn-bvn0o-fo1e.gvt1.com	117.149.195.16
+r6---sn-bvn0o-fo1e.gvt1.com	117.149.195.17
+r7---sn-bvn0o-fo1e.gvt1.com	117.149.195.18
+r8---sn-bvn0o-fo1e.gvt1.com	117.149.195.19
+
+#Yichang
+
+r1---sn-bvn0o-tpie.gvt1.com	116.207.114.76
+r2---sn-bvn0o-tpie.gvt1.com	116.207.114.77
+r3---sn-bvn0o-tpie.gvt1.com	116.207.114.78
+r4---sn-bvn0o-tpie.gvt1.com	116.207.114.79
+r5---sn-bvn0o-tpie.gvt1.com	116.207.114.80
+r6---sn-bvn0o-tpie.gvt1.com	116.207.114.81
+r7---sn-bvn0o-tpie.gvt1.com	116.207.114.82
+r8---sn-bvn0o-tpie.gvt1.com	116.207.114.83
